@@ -1,0 +1,4 @@
+The <blockquote> element in HTML is used to indicate that the enclosed text is an extended quotation. It is commonly used to display quotations that are longer than a few sentences, providing clear visual separation from the surrounding content. The element can also include an optional cite attribute, which specifies the source of the quotation.
+
+twitter share link for developer
+https://developer.x.com/en/docs/twitter-for-websites/tweet-button/overview
