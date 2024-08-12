@@ -102,9 +102,9 @@ h1 {
 
 #button1 {
   box-shadow: 2px 2px 10px black;
-  background-color: #645FCE;
+  background-color: #645fce;
   color: #fff;
-  border: 1px solid #645FCE;
+  border: 1px solid #645fce;
 }
 
 #button2 {
@@ -112,4 +112,16 @@ h1 {
   background-color: #fff;
   color: #blue;
   border: 1px solid blue;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    width: 70%;
+  }
 }
